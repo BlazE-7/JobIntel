@@ -32,6 +32,7 @@ The project appears to be a web-based tool named JobIntel designed to help users
   - Information like average salaries, company ratings, revenue, and headquarters location are provided for each company. This data helps users evaluate job opportunities based on employer attributes.
     
 **Purpose and Value:**
+
 **JobIntel** is built to offer users a personalized job exploration experience tailored to data-focused careers. By integrating data on salaries, company ratings, and sector-specific roles, it helps users:
   - Identify top-paying roles and industries within the data field.
   - Explore career opportunities across different sectors.
