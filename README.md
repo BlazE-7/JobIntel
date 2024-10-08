@@ -1,91 +1,40 @@
-## Hey 👋, I'm Smit Prajapati!  
-  
+The project appears to be a web-based tool named JobIntel designed to help users explore and analyze data-related career opportunities across various sectors. Here's an overview of its main components and functionalities based on the screenshots provided:
 
-<a href="https://github.com/https://github.com/BlazE-7" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/smit-prajapati-4b6294243/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://medium.com/https://medium.com/@blaze-7" target="_blank">
-<img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
-</a>  
-  
+Key Features:
+1. Job Category Selection:
 
+- Users can select from various data-related roles: Data Scientist, Data Analyst, Data Engineer, and Machine Learning Engineer.
+- This allows users to filter career information based on their preferred job role.
+2. Sector Selection:
 
+- Users can explore data career opportunities within different industry sectors. In the screenshots, sectors like "Aerospace & Defense," "Agriculture & Forestry," "Biotech & Pharmaceuticals," and others are available.
+- This enables users to investigate job opportunities within specific industries, providing sector-specific insights.
+3. Top 5 Jobs View:
 
-### Aspiring Data Scientist Enthusiastic About Analytics, Machine Learning, and Data Visualization  
-A motivated fresher eager to dive into the world of data science, I am passionate about transforming raw data into actionable insights. With a focus on data analytics, machine learning, and data visualization, I enjoy uncovering trends and solving complex problems.
+- Users can choose whether or not to display the top 5 job roles within a selected sector.
+- This provides a quick overview of high-paying roles or roles with high demand within that industry.
+4. Data Visualization:
 
-Currently developing my skills in Python, SQL, and popular data visualization tools, I’m enthusiastic about working on projects that utilize data to drive informed decisions and create meaningful impacts. As I continue to learn and grow, I’m excited to contribute to the data science community and tackle real-world challenges.  
-  
+- The interface includes a Kernel Density Estimation (KDE) plot representing salary distributions. This helps users understand salary trends across different job roles and sectors.
+- This visual insight assists users in evaluating the earning potential within each job category.
+5. Sector-wise Company List:
 
-<br/>  
+- The tool displays a table with companies within the selected sector that offer positions in the chosen job category.
+6. Details include:
+- Company Name
+- Job Category
+- Sector
+- Type (e.g., Private, Public, Nonprofit)
+- Company Rating
+- Revenue Range
+- Users can access detailed information about companies, allowing for a more informed decision on potential employers.
+Company Insights:
 
+Information like average salaries, company ratings, revenue, and headquarters location are provided for each company. This data helps users evaluate job opportunities based on employer attributes.
+Purpose and Value:
+JobIntel is built to offer users a personalized job exploration experience tailored to data-focused careers. By integrating data on salaries, company ratings, and sector-specific roles, it helps users:
 
-## Rapidfire  
-<table><tr><td valign="top" width="50%">
-
-- 🌱 I’m currently learning Data Sciecnce  
-  
-
-- ❓ Ask me about anything related to Data Analytics  
-  
-
-- ⚡ Fun fact: I keep night shift swithed on at all times   
-
-
-</td><td valign="top" width="50%">
-
-<div align="center">
-<img src="" align="center" style="width: 100%" />
-</div>  
-
-
-</td></tr></table>  
-
-<br/>  
-
-
-## Languages and Tools  
-<div align="center">  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="25" /></a>  
-<a href="https://powerbi.microsoft.com/en-us/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powerbi.png" alt="Power Bi" height="25" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="25" /></a>  
-<a href="https://cloud.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="25" /></a>  
-<a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="25" /></a>  
-<a href="https://www.apachefriends.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="XAMPP" height="25" /></a>  
-<a href="https://flask.palletsprojects.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flask.png" alt="Flask" height="25" /></a>  
-<a href="https://www.tensorflow.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="25" /></a>  
-</div>  
-
-<br/>  
-
-
-## Github Stats  
-<table><tr><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlazE-7&hide_border=true&layout=compact" align="left" />
-
-</td><td valign="top" width="50%">
-
-
-
-</td></tr></table>  
-
-<br/>  
-
-  
-
-<br/>  
-
-![Profile views counter](https://komarev.com/ghpvc/?username=BlazE-7&&style=flat-square)  
-  
-
-<br/>  
-
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+Identify top-paying roles and industries within the data field.
+Explore career opportunities across different sectors.
+Make data-driven decisions when choosing potential employers and industries.
+Overall, JobIntel serves as a comprehensive career exploration tool for individuals pursuing data-centric careers, providing insights into salary trends, top employers, and industry-specific opportunities.
