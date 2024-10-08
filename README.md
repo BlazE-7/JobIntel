@@ -44,5 +44,5 @@ The project appears to be a web-based tool named JobIntel designed to help users
   - Identify top-paying roles and industries within the data field.
   - Explore career opportunities across different sectors.
   - Make data-driven decisions when choosing potential employers and industries.
-  - 
+
 Overall, JobIntel serves as a comprehensive career exploration tool for individuals pursuing data-centric careers, providing insights into salary trends, top employers, and industry-specific opportunities.
